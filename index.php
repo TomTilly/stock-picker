@@ -93,6 +93,5 @@
         <footer>
             &copy; 2015 Tom Tillistrand
         </footer>
-        <script src="scripts/main-script.js" type="text/javascript"></script>
     </body>
 </html>
