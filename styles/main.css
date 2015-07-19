@@ -1,9 +1,41 @@
+body {
+	margin-left: 20px;
+}
+
 h1 {
 	text-align: center;
 }
 
 form {
 	width: 600px
+}
+
+div {
+	width: 600px;
+}
+
+form+div {
+	margin-top: 20px;
+}
+
+table {
+	margin: 0 auto;
+	text-align: center;
+	border-collapse: collapse;
+	width: 200px;
+	margin-bottom: 20px;
+}
+
+th {
+	background-color: #DDD;
+	border: 1px solid #999;
+	border-bottom: 2px solid #777;
+	padding: 5px;
+}
+
+td {
+	border: 1px solid #999;
+	padding: 4px;
 }
 
 .center_content {
